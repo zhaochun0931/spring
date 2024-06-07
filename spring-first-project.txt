@@ -1,0 +1,4 @@
+spring init --dependencies=web helloworld
+
+
+
