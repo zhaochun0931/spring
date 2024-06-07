@@ -2,3 +2,7 @@ spring init --list
 
 spring init --dependencies=web helloworld
 
+# spring init --dependencies=web helloworld
+Using service at https://start.spring.io
+Project extracted to '/root/helloworld'
+#
