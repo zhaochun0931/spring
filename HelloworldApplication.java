@@ -13,10 +13,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 
-public class DemoApplication {
+public class HelloworldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(HelloworldApplication.class, args);
 	}
 
 	    @GetMapping("/hello")
