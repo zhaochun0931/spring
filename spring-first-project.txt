@@ -7,3 +7,10 @@ spring init --dependencies=web helloworld --name=helloworld
 Using service at https://start.spring.io
 Project extracted to '/root/helloworld'
 #
+
+
+
+
+
+
+gradle bootRun
